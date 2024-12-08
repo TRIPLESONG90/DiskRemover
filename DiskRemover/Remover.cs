@@ -38,10 +38,6 @@ namespace DiskRemover
             {
                 throw new DirectoryNotFoundException();
             }
-            if (Path.GetDirectoryName(path) == null)
-            {
-                throw new ArgumentException();
-            }
 
             saveDirectory = new DirectoryInfo(path);
 
