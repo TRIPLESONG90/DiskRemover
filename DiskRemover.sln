@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiskRemover", "DiskRemover\DiskRemover.csproj", "{B19EB87B-0F57-4073-978C-BB895B5CFA80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiskRemover.Console", "DiskRemover.Console\DiskRemover.Console.csproj", "{988EA24B-7007-4272-9E9C-BF43F72B6CC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B19EB87B-0F57-4073-978C-BB895B5CFA80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B19EB87B-0F57-4073-978C-BB895B5CFA80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B19EB87B-0F57-4073-978C-BB895B5CFA80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B19EB87B-0F57-4073-978C-BB895B5CFA80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{988EA24B-7007-4272-9E9C-BF43F72B6CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988EA24B-7007-4272-9E9C-BF43F72B6CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988EA24B-7007-4272-9E9C-BF43F72B6CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988EA24B-7007-4272-9E9C-BF43F72B6CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
